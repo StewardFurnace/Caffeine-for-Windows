@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://StewardFurnace.github.io/caffeine-for-windows/sitemap.xml
