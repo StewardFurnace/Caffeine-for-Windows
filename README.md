@@ -23,7 +23,7 @@
 
 ## How to Install
 
-1. Download `CaffeineForWindows-1.0.0-portable.zip` from the [latest release](https://github.com/StewardFurnace/Caffeine-for-Windows/releases/latest).
+1. Download `CaffeineForWindows-portable.zip` from the [latest release](https://github.com/StewardFurnace/Caffeine-for-Windows/releases/latest).
 2. Extract the ZIP to any folder.
 3. Run `Caffeine.exe`. A coffee cup appears in the notification area next to the clock (click the **^** arrow if you don't see it). Click the cup: **orange** means your PC stays awake, **grey** means normal sleep settings.
 
