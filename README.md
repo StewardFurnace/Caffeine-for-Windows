@@ -4,9 +4,9 @@
 
 ## Screenshots
 
-![Caffeine for Windows keeps the PC awake on Windows 11: orange coffee cup in the tray, upload keeps running](assets/screenshots/caffeine-keep-pc-awake-windows-11.png)
+![Caffeine for Windows keeps the PC awake on Windows 11: orange coffee cup in the tray, upload keeps running](https://github.com/StewardFurnace/Caffeine-for-Windows/blob/main/assets/caffeine-keep-pc-awake-windows-11.png)
 
-![Without Caffeine the Windows screen goes to sleep and the upload pauses](assets/screenshots/windows-screen-sleep-without-caffeine.png)
+![Without Caffeine the Windows screen goes to sleep and the upload pauses](https://github.com/StewardFurnace/Caffeine-for-Windows/blob/main/assets/windows-screen-sleep-without-caffeine.png)
 
 ## Features
 
